@@ -1,11 +1,11 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "sandeep",
+    name: "Sandeep",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Researcher",
+    role: "Researcher \n Email: sandeepmukh [AT] berkeley [DOT] edu",
     bio: "It's always been just the data.",
-    email: "sandeepmukh [AT] berkeley [DOT] edu",
+    email: "",
     linkedin: "sandeepmukh",
     github: "sandeepmukh",
     instagram: "",
